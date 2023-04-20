@@ -8,6 +8,9 @@
     "start": "nodemon index"
   },
   "keywords": [],
+  "engines": {
+    "node": "16.18.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -18,8 +21,6 @@
     "mongoose": "^7.0.4",
     "nodemon": "^2.0.22",
     "openai": "^3.2.1"
-  },
-  "engines": {
-    "node": "16.18.0"
-  },
+  }
+  
 }
